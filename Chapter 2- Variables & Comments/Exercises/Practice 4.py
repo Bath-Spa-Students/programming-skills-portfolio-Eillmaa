@@ -2,5 +2,6 @@
 x=int(23.00)
 y=str(76)
 
+#Print the type of variable x and y are
 print(type(x))
 print(type(y))
